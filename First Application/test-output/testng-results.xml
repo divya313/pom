@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+      <class name="Framework.testngannot">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Framework.testngannot@523884b2]" name="beforeSuite" is-config="true" duration-ms="21" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Framework.testngannot@523884b2]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Framework.testngannot@523884b2]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Framework.testngannot@523884b2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Framework.testngannot@523884b2]" name="test" duration-ms="14" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Framework.testngannot@523884b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Framework.testngannot@523884b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:Framework.testngannot@523884b2]" name="test1" duration-ms="2" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Framework.testngannot@523884b2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Framework.testngannot@523884b2]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Framework.testngannot@523884b2]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Framework.testngannot@523884b2]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-08-28T05:16:08Z" finished-at="2019-08-28T05:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Framework.testngannot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

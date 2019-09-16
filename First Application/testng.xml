@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Suite1">
+   <!-- <test name = "testcase1">
+   <parameter name="Link" value="Loan" />
+      <classes>
+         <class name = "Framework.testngannot" />
+      </classes>
+   </test>
+   <test name = "testcase2">
+      <classes>
+         <class name = "Framework.DependenciesExample" />
+      </classes>
+   </test> -->
+   <!-- <test name="groups">
+   <groups>
+   <run>
+   <include name="apple"></include>
+   <include name="banana"></include>
+   </run>
+   </groups>
+   <classes>
+   <class name="Framework.GroupingExample"></class>
+   </classes>
+   </test> -->
+   
+<!-- <test name="Listeners">
+<listeners>
+<listener class-name="Framework.DependenciesExample"></listener>
+</listeners>
+</test> -->
+</suite>   

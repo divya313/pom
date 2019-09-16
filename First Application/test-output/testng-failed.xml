@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test thread-count="5" name="testcase1(failed)">
+    <parameter name="Link" value="Loan"/>
+    <classes>
+      <class name="Framework.AccountSummary">
+        <methods>
+          <include name="setUpBeforeClass"/>
+          <include name="CreditAccounts"/>
+          <include name="InvestmentAccounts"/>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Framework.AccountSummary -->
+    </classes>
+  </test> <!-- testcase1(failed) -->
+  <test thread-count="5" name="testcase2(failed)">
+    <classes>
+      <class name="Framework.Dataprovider">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CreditAccounts"/>
+          <include name="InvestmentAccounts"/>
+        </methods>
+      </class> <!-- Framework.Dataprovider -->
+    </classes>
+  </test> <!-- testcase2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
